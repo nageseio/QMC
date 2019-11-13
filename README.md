@@ -1,0 +1,2 @@
+# QMC
+Quine–McCluskey algorithm
